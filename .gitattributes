@@ -1,0 +1,6 @@
+# Code outside the Maru stack, which maru's line budget does not count.
+[attr]unused linguist-vendored
+bindings/**  unused
+c/**         unused
+hs/**        unused
+js/**        unused
