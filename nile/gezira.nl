@@ -181,7 +181,7 @@ u:Vector ≠ s:Number : Boolean
 
 u:Vector + v:Vector : Vector
     ((x1, y1), (x2, y2)) = (u, v)
-    (x1 + y1, x2 + y2)
+    (x1 + x2, y1 + y2)
 
 u:Vector + b:Number : Vector
     v:Vector = (b, b)
